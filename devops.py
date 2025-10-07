@@ -12,7 +12,7 @@ pygame.display.set_caption("Temple Run - Simple 2D")
 
 # Colors
 WHITE = (255, 255, 255)
-BLACK = (0, 0, 0)
+BLACK = (255, 0, 0)
 GOLD = (255, 215, 0)
 RED = (200, 0, 0)
 
