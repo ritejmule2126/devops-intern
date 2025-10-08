@@ -33,7 +33,7 @@ ground_y = HEIGHT - 50
 
 # Obstacles
 obstacles = []
-obstacle_width = 40
+obstacle_width = 41
 obstacle_height = 60
 obstacle_speed = 8
 spawn_rate = 1500  # milliseconds
